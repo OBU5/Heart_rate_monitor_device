@@ -1,0 +1,491 @@
+Cmp-Mod V01 Created by PcbNew   date = 29/09/2019 22:34:43
+
+BeginCmp
+TimeStamp = 5D908932
+Path = /5D86E3A1
+Reference = C12;
+ValeurCmp = 22u;
+IdModule  = Mylib_Footprints:C1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FCE6B
+Path = /5D84A450
+Reference = R24;
+ValeurCmp = 10k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F16D9
+Path = /5D939F6F
+Reference = J1;
+ValeurCmp = USB_B_Micro;
+IdModule  = Connectors_USB:USB_Micro-B_Molex-105017-0001;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FCE4A
+Path = /5D83696B
+Reference = C3;
+ValeurCmp = 33n;
+IdModule  = Mylib_Footprints:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F2C49
+Path = /5D800F07
+Reference = U2;
+ValeurCmp = MCP73833;
+IdModule  = Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D901913
+Path = /5D879225
+Reference = R13;
+ValeurCmp = 500k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D900237
+Path = /5D807F71
+Reference = C1;
+ValeurCmp = 4.7u;
+IdModule  = Mylib_Footprints:C1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D908A74
+Path = /5D8345D5
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = Mylib_Footprints:C1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FCE29
+Path = /5D84C291
+Reference = C7;
+ValeurCmp = 33n;
+IdModule  = Mylib_Footprints:C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F160F
+Path = /5D8596AC
+Reference = C10;
+ValeurCmp = 22u;
+IdModule  = Mylib_Footprints:C1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90A4AC
+Path = /5D802107
+Reference = D1;
+ValeurCmp = LED_G;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FEC28
+Path = /5D802073
+Reference = D2;
+ValeurCmp = LED_O;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FECD0
+Path = /5D91CB64
+Reference = D7;
+ValeurCmp = LED_G;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F169E
+Path = /5D855E06
+Reference = D10;
+ValeurCmp = MBRA340T3G;
+IdModule  = Mylib_Footprints:D_SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FF2C8
+Path = /5D8070A7
+Reference = F1;
+ValeurCmp = Fuse;
+IdModule  = Mylib_Footprints:Fuse_Holder-PTF15;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B70F
+Path = /5DA2207B
+Reference = J2;
+ValeurCmp = IN;
+IdModule  = Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F1703
+Path = /5DA2ED75
+Reference = J3;
+ValeurCmp = BATT;
+IdModule  = Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B092
+Path = /5D93A733
+Reference = J4;
+ValeurCmp = OUT;
+IdModule  = Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90091B
+Path = /5D841693
+Reference = R1;
+ValeurCmp = 100k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90095D
+Path = /5D841921
+Reference = R2;
+ValeurCmp = 27k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90097E
+Path = /5D8419A7
+Reference = R3;
+ValeurCmp = 22k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90099F
+Path = /5D841A9F
+Reference = R4;
+ValeurCmp = 266k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F176C
+Path = /5D887453
+Reference = R5;
+ValeurCmp = 5k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F1778
+Path = /5D8029DF
+Reference = R6;
+ValeurCmp = 470R;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FAF4B
+Path = /5D802A7F
+Reference = R7;
+ValeurCmp = 470R;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F1790
+Path = /5D850145
+Reference = R8;
+ValeurCmp = 1k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F179C
+Path = /5D85B656
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F17A8
+Path = /5D8729D2
+Reference = R10;
+ValeurCmp = 1k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F17B4
+Path = /5D850999
+Reference = R11;
+ValeurCmp = 500k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D901468
+Path = /5D860CD9
+Reference = R12;
+ValeurCmp = 500k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F17D8
+Path = /5DB6B7DD
+Reference = R14;
+ValeurCmp = 1k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FE2D7
+Path = /5DB5881D
+Reference = R15;
+ValeurCmp = 1k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F32D9
+Path = /5DB208C5
+Reference = R16;
+ValeurCmp = 1k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F17FC
+Path = /5D8092AB
+Reference = R17;
+ValeurCmp = 1k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FB269
+Path = /5D808F5F
+Reference = R18;
+ValeurCmp = R;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FB35B
+Path = /5D808FAD
+Reference = R19;
+ValeurCmp = R;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FB487
+Path = /5D91CAF0
+Reference = R20;
+ValeurCmp = 470R;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FCEAD
+Path = /5D84C1D8
+Reference = R22;
+ValeurCmp = 10k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FCE8C
+Path = /5D848B62
+Reference = R23;
+ValeurCmp = 30k;
+IdModule  = Mylib_Footprints:R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90C04D
+Path = /5DA8E500
+Reference = SW1;
+ValeurCmp = SW_SPST;
+IdModule  = Mylib_Footprints:Switch_P-KNX125;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F186D
+Path = /5D80CBD9
+Reference = TH1;
+ValeurCmp = NTC;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D909A7E
+Path = /5D8691E8
+Reference = U3;
+ValeurCmp = LMS33460;
+IdModule  = TO_SOT_Packages_SMD:SOT-353_SC-70-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8F18DB
+Path = /5D800FA6
+Reference = U4;
+ValeurCmp = ADP1613;
+IdModule  = Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D9088A9
+Path = /5D82EF09
+Reference = L1;
+ValeurCmp = 10u;
+IdModule  = Mylib_Footprints:Inductor_SRR1208;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FC6DA
+Path = /5D86E31D
+Reference = L2;
+ValeurCmp = 10u;
+IdModule  = Mylib_Footprints:Inductor_SRR1208;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FF727
+Path = /5D909039
+Reference = C4;
+ValeurCmp = 4.7u;
+IdModule  = Mylib_Footprints:C1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D908A95
+Path = /5D924852
+Reference = C5;
+ValeurCmp = 10u;
+IdModule  = Mylib_Footprints:C1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FB8C0
+Path = /5D9470F0
+Reference = C6;
+ValeurCmp = 10u;
+IdModule  = Mylib_Footprints:C1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D908953
+Path = /5D979637
+Reference = C8;
+ValeurCmp = 22u;
+IdModule  = Mylib_Footprints:C1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FD9DD
+Path = /5D886CD6
+Reference = D3;
+ValeurCmp = LM4040-2.5;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D8FFFF7
+Path = /5D83C123
+Reference = U1;
+ValeurCmp = LM339;
+IdModule  = Housings_SOIC:SOIC-14_3.9x8.7mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B906
+Path = /5DA08B80
+Reference = D4;
+ValeurCmp = LED_G;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B93C
+Path = /5DA08B87
+Reference = D5;
+ValeurCmp = LED_R;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B8D0
+Path = /5D9D5674
+Reference = D6;
+ValeurCmp = LED_G;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B89A
+Path = /5D9D582C
+Reference = D8;
+ValeurCmp = LED_R;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B972
+Path = /5DA185DD
+Reference = D9;
+ValeurCmp = LED_G;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B864
+Path = /5DA185E4
+Reference = D11;
+ValeurCmp = LED_R;
+IdModule  = LEDs:LED_D3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B5D5
+Path = /5D923083
+Reference = J8;
+ValeurCmp = Screw_Terminal_01x01;
+IdModule  = Mylib_Footprints:Screwh_hole-3.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B61B
+Path = /5D922CEF
+Reference = J5;
+ValeurCmp = Screw_Terminal_01x01;
+IdModule  = Mylib_Footprints:Screwh_hole-3.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90B627
+Path = /5D922FEF
+Reference = J7;
+ValeurCmp = Screw_Terminal_01x01;
+IdModule  = Mylib_Footprints:Screwh_hole-3.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5D90C1A3
+Path = /5D922F5D
+Reference = J6;
+ValeurCmp = Screw_Terminal_01x01;
+IdModule  = Mylib_Footprints:Screwh_hole-3.5mm;
+EndCmp
+
+EndListe
