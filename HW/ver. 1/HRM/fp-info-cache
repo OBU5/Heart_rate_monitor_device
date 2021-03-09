@@ -1,4 +1,4 @@
-16383655091253220
+16386885706209349
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50680,6 +50680,13 @@ diode
 2
 2
 Mylib_Footprints
+OLGA-22pin
+
+
+0
+22
+22
+Mylib_Footprints
 Pot-dual-PTD902
 
 
@@ -50714,6 +50721,13 @@ R1210
 0
 2
 2
+Mylib_Footprints
+SC70-5pin
+
+
+0
+5
+5
 Mylib_Footprints
 SW_Tactile_SPST_Angled_PTS645Vx83-2LFS
 tactile switch SPST right angle, PTS645VL83-2 LFS
