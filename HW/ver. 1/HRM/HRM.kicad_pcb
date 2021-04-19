@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 1.27)
+    (last_trace_width 0.25)
     (user_trace_width 0.254)
     (user_trace_width 0.381)
     (user_trace_width 0.635)
@@ -812,7 +812,7 @@
   (module Mylib_Footprints:C0805 (layer F.Cu) (tedit 5F9C4787) (tstamp 6054A93E)
     (at 160.553 147.265 270)
     (path /60C80D13)
-    (fp_text reference C21 (at -6.588 -0.008) (layer F.SilkS)
+    (fp_text reference C21 (at 1.213 1.31 90) (layer F.SilkS)
       (effects (font (size 0.635 0.635) (thickness 0.127)))
     )
     (fp_text value 1u (at 0 -1.905 90) (layer F.Fab)
@@ -833,7 +833,7 @@
   (module Mylib_Footprints:C0805 (layer F.Cu) (tedit 5F9C4787) (tstamp 605B2073)
     (at 160.553 143.201 90)
     (path /616A68C5)
-    (fp_text reference C24 (at -5.135 -1.549 90) (layer F.SilkS)
+    (fp_text reference C24 (at 2.723 -0.31 180) (layer F.SilkS)
       (effects (font (size 0.635 0.635) (thickness 0.127)))
     )
     (fp_text value 100n (at 0 -1.905 90) (layer F.Fab)
